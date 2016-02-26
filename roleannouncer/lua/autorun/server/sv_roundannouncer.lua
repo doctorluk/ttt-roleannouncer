@@ -4,7 +4,7 @@
 
 if SERVER then
 
--- Chose the language of the announcer, there is "english" and "german"
+-- Choose the language of the announcer, there is "english" and "german"
 ROUNDANNOUNCER_LANGUAGE = "english"
 
 -- IGNORE EVERYTHING BELOW THIS LINE
